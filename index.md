@@ -78,9 +78,15 @@ __Royal Mint__, London
 
 - Warden
 - Minted coins
+ - Warden
+ - Minted coins
+
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
+
+* Warden
+* Minted coins
 
 
 
