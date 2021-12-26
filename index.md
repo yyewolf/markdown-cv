@@ -7,85 +7,83 @@ title: Tristan SMAGGHE
 
 <div id="webaddress">
 <a href="tristan@smagghe.com">tristan@smagghe.com</a>
+<br/>
 <a href="#">07.82.74.24.68</a>
 </div>
 
 
-## Currently
+## Actuellement
 
-Standing on the shoulders of giants
+Étudiant en ingénierie informatique
 
-### Specialized in
+## Objectifs
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__Ingénieur en Informatique__
 
+## Expérience
 
-### Research interests
+`2021`
+__Projet de semestre en groupe.__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Compétences acquises :
+    * \- Esprit d'équipe au sein d'un projet
+    * \- Réactivité face à des changements majeurs
 
+`2015`
+__Stage de troisième.__
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Septembre 2021 - now`
+__TELECOM Nancy, Nancy__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019-2021`
+__CPGE PT, Lycée de l'Europe, Dunkerque.__
 
-- Sizar
+`2016-2019`
+__BAC S Spécialité Sciences de l'Ingénieur, Lycée de l'Europe, Dunkerque.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Première année
 
-- Fellow
+## Diplômes
 
+`2021`
+__MOOC Gestion de Projet.__
 
+- Spécialités :
+    * \- Outils et applications web pour la gestion de projet
+    * \- Outils et Méthodologie de Résolution de Problème
 
-## Awards
+`2021`
+__TOEIC.__
 
-`2012`
-President, *Royal Society*, London, UK
+- Score de 940/990
 
-Associate, *French Academy of Science*, Paris, France
+`2019`
+__BAC S Spécialité Sciences de l'Ingénieur.__
 
+- Mention Assez Bien
 
+## Compétences
 
-## Publications
+__Languages de programmation__
+* \- Golang
+* \- Python
+* \- JS / HTML / CSS
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Logiciels__
+* \- Office
+* \- Matlab
+* \- Visual Studio Code
 
-### Journals
+## Langues
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__Français__
 
-`1669`
-Lectiones opticæ.
+__Anglais__
 
-etc. etc. etc.
+## Hobbies
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Des projets en rapport avec les technologies du web ainsi que de l'intelligence artificielle.
+- Jeux de sociétés.
+- Participation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
