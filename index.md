@@ -64,7 +64,7 @@ __BAC S Spécialité Sciences de l'Ingénieur.__
 
 - Mention Assez Bien
 
-## Compétences
+## Compétence
 
 __Languages de programmation__
 * \- Golang
