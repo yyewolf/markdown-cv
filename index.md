@@ -11,7 +11,6 @@ title: Tristan SMAGGHE
 <a href="#">07.82.74.24.68</a>
 </div>
 
-
 ## Actuellement
 
 Étudiant en ingénierie informatique
@@ -32,9 +31,9 @@ __Projet de semestre en groupe.__
 `2015`
 __Stage de troisième.__
 
-## Education
+## Éducation
 
-`Septembre 2021 - now`
+`Septembre 2021 - maintenant`
 __TELECOM Nancy, Nancy__
 
 `2019-2021`
@@ -78,12 +77,10 @@ __Logiciels__
 
 ## Langues
 
-__Français__
-
-__Anglais__
+__Français et Anglais__
 
 ## Hobbies
 
-- Des projets en rapport avec les technologies du web ainsi que de l'intelligence artificielle.
-- Jeux de sociétés.
-- Participation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
+- \- Des projets en rapport avec les technologies du web ainsi que de l'intelligence artificielle.
+- \- Jeux de sociétés.
+- \- Participation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
