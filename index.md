@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tristan SMAGGHE
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tristan SMAGGHE
+Étudiant en ingénierie informatique
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tristan@smagghe.com">tristan@smagghe.com</a>
+<a href="#">07.82.74.24.68</a>
 </div>
 
 
