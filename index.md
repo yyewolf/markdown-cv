@@ -27,15 +27,15 @@ __Ingénieur en Informatique__
 __Administrateur de "Telecomnancy.net".__
 
 - Compétences acquises :
-    * \- Docker.
-    * \- Nginx.
+    * \- Docker
+    * \- Nginx
 
 `2021`
 __Projet de semestre en groupe.__
 
 - Compétences acquises :
-    * \- Esprit d'équipe au sein d'un projet.
-    * \- Réactivité face à des changements majeurs.
+    * \- Esprit d'équipe au sein d'un projet
+    * \- Réactivité face à des changements majeurs
 
 ## Formation
 
@@ -83,7 +83,7 @@ __Logiciels__
 ## Langues
 
 __Anglais__
-* Niveau C1.
+* Niveau C1
 
 ## Centres d’intérêt
 
