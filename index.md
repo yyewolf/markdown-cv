@@ -24,7 +24,7 @@ __Ingénieur en Informatique__
 ## Expériences
 
 `Janvier 2022 - maintenant`
-__Administrateur de la plateforme "Telecomnancy.net".__
+__Administrateur de "Telecomnancy.net".__
 
 - Compétences acquises :
     * \- Docker.
