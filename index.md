@@ -6,6 +6,8 @@ title: Tristan SMAGGHE
 Étudiant en ingénierie informatique
 
 <div id="webaddress">
+<a href="#">20 ans</a>
+<br/>
 <a href="tristan@smagghe.com">tristan@smagghe.com</a>
 <br/>
 <a href="#">07.82.74.24.68</a>
@@ -19,19 +21,23 @@ title: Tristan SMAGGHE
 
 __Ingénieur en Informatique__
 
-## Expérience
+## Expériences
+
+`Janvier 2022 - maintenant`
+__Administrateur de la plateforme "Telecomnancy.net".__
+
+- Compétences acquises :
+    * \- Docker.
+    * \- Nginx.
 
 `2021`
 __Projet de semestre en groupe.__
 
 - Compétences acquises :
-    * \- Esprit d'équipe au sein d'un projet
-    * \- Réactivité face à des changements majeurs
+    * \- Esprit d'équipe au sein d'un projet.
+    * \- Réactivité face à des changements majeurs.
 
-`2015`
-__Stage de troisième.__
-
-## Éducation
+## Formation
 
 `Septembre 2021 - maintenant`
 __TELECOM Nancy, Nancy__
@@ -42,7 +48,7 @@ __TELECOM Nancy, Nancy__
 __CPGE PT, Lycée de l'Europe, Dunkerque.__
 
 `2016-2019`
-__BAC S Spécialité Sciences de l'Ingénieur, Lycée de l'Europe, Dunkerque.__
+__BAC S Spécialité SI, Lycée de l'Europe, Dunkerque.__
 
 ## Diplômes
 
@@ -61,26 +67,25 @@ __TOEIC.__
 `2019`
 __BAC S Spécialité Sciences de l'Ingénieur.__
 
-- Mention Assez Bien
-
 ## Compétence
 
 __Languages de programmation__
-* \- Golang
+* \- Golang (autodidacte)
 * \- Python
 * \- JS / HTML / CSS
+* \- Java
 
 __Logiciels__
-* \- Office
 * \- Matlab
 * \- Visual Studio Code
+* \- Outil d'administration de serveurs
 
 ## Langues
 
-__Français et Anglais__
+__Anglais__
+* Niveau C1.
 
 ## Centres d’intérêt
 
 - \- Des projets en rapport avec les technologies du web ainsi que de l'intelligence artificielle.
-- \- Administration de la plateforme "Telecomnancy.net".
 - \- Participation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
