@@ -67,7 +67,7 @@ __TOEIC.__
 `2019`
 __BAC S Spécialité Sciences de l'Ingénieur.__
 
-## Compétence
+## Compétences
 
 __Languages de programmation__
 * \- Golang (autodidacte)
