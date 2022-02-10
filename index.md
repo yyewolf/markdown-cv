@@ -36,13 +36,13 @@ __Stage de troisième.__
 `Septembre 2021 - maintenant`
 __TELECOM Nancy, Nancy__
 
+- Première année
+
 `2019-2021`
 __CPGE PT, Lycée de l'Europe, Dunkerque.__
 
 `2016-2019`
 __BAC S Spécialité Sciences de l'Ingénieur, Lycée de l'Europe, Dunkerque.__
-
-- Première année
 
 ## Diplômes
 
@@ -50,7 +50,7 @@ __BAC S Spécialité Sciences de l'Ingénieur, Lycée de l'Europe, Dunkerque.__
 __MOOC Gestion de Projet.__
 
 - Spécialités :
-    * \- Outils et applications web pour la gestion de projet
+    * \- Outils et Applications Web pour la gestion de projet
     * \- Outils et Méthodologie de Résolution de Problème
 
 `2021`
@@ -79,8 +79,8 @@ __Logiciels__
 
 __Français et Anglais__
 
-## Hobbies
+## Centres d’intérêt
 
 - \- Des projets en rapport avec les technologies du web ainsi que de l'intelligence artificielle.
-- \- Jeux de sociétés.
+- \- Administration de la plateforme "Telecomnancy.net".
 - \- Participation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
