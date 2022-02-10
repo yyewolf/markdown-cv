@@ -88,4 +88,4 @@ __Anglais__
 ## Centres d’intérêt
 
 - \- Des projets en rapport avec les technologies du web ainsi que de l'intelligence artificielle.
-- \- Participation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
+- \- Animation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
