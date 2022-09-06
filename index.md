@@ -32,6 +32,8 @@ __Administrateur de "Telecomnancy.net".__
 
 `2022`
 __Stage première année.__
+
+- Enjeux :
     * \- Réalisation des enjeux de l'informatique
     * \- Première expérience en entreprise pendant 10 semaines.
 
