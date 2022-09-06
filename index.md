@@ -30,8 +30,13 @@ __Administrateur de "Telecomnancy.net".__
     * \- Docker
     * \- Nginx
 
-`2021`
-__Projet de semestre en groupe.__
+`2022`
+__Stage première année.__
+    * \- Réalisation des enjeux de l'informatique
+    * \- Première expérience en entreprise pendant 10 semaines.
+
+`2021 - 2022`
+__Projets de semestre en groupe.__
 
 - Compétences acquises :
     * \- Esprit d'équipe au sein d'un projet
@@ -87,5 +92,6 @@ __Anglais__
 
 ## Centres d’intérêt
 
-- \- Des projets en rapport avec les technologies du web ainsi que de l'intelligence artificielle.
+- \- Des projets en rapport avec les technologies du web.
+- \- Participation à l'Escape Game Telecom Nancy.
 - \- Animation au "TN'Event", évènement caritatif qui a levé des fonds pour ACTION ENFANCE.
